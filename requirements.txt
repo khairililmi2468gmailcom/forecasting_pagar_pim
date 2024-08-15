@@ -1,0 +1,6 @@
+pandas==2.2.2
+numpy==1.26.4
+tensorflow==2.17.0
+scikit-learn==1.5.1
+pyarrow==pyarrow
+keras==3.5.0
